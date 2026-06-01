@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+
+# React / Vite
+node_modules/
+dist/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Logs
+*.log
